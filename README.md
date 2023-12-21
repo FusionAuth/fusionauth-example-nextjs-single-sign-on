@@ -1,3 +1,6 @@
+**This repo is out of date and is archived. Check out [an updated tutorial on using FusionAuth with Next.js](https://fusionauth.io/docs/quickstarts/quickstart-javascript-nextjs-web) or [the updated GitHub repository](https://github.com/FusionAuth/fusionauth-quickstart-javascript-nextjs-web).**
+
+
 # Example: Using Next.js with FusionAuth
 
 This project contains an example project that illustrates using FusionAuth with Nextjs
